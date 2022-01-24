@@ -1,5 +1,4 @@
 ﻿alabaster==0.7.12
-ApiDoc==1.4.0
 Babel==2.9.1
 beautifulsoup4==4.10.0
 bleach==4.1.0
